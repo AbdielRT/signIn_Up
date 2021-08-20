@@ -2,19 +2,20 @@
   margin-top: 15px;
 }
 
-ul.passwordValidation {
+.passwordValidation {
   list-style-type: none;
   font-size: 12px;
   padding: 0px;
 }
 
-li.valid {
+.valid {
   color: #52ce67;
 }
 
 #connectedSVG {
   width: 80vw;
   max-height: 550px;
+  margin: 10px;
 }
 
 #main-footer {
