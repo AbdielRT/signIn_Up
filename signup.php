@@ -59,8 +59,8 @@
                 <label for="acceptTC">I accept the Terms and Conditions</label>
             </div>
             <div class="d-grid gap-2">
-                <input type="submit" class="btn btn-primary disabled" id="signupBtn" 
-                name="signup" value="Sign Up">
+                <input type="submit" class="btn btn-primary disabled" 
+                id="signupBtn" name="signup" value="Sign Up">
             </div>
         </fieldset>
       </form>

@@ -1,5 +1,5 @@
 <?php
-session_start();
+session_start(); // to avoid warnings in webhost 
 ?>
 <!DOCTYPE html>
 <html lang="fr">

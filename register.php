@@ -1,5 +1,4 @@
 <?php
-
 $regexPassword = "/^(?=.*[a-z])(?=.*[A-Z])(?=.*[\d@$!%*?#&])[A-Za-z\d@$!%*?#&]{8,}$/";
 if(isset($_POST["signup"])){
     if(!empty($_POST["signupUser"]) && !empty($_POST["signupPassword"]) &&

@@ -1,5 +1,4 @@
 <?php
-
 // Check if login attemp via our login form
 if(isset($_POST["login"])){
     if(!empty($_POST["user"]) && !empty($_POST["password"])){
