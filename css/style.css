@@ -1,0 +1,32 @@
+#btn-login {
+  margin-top: 15px;
+}
+
+ul.passwordValidation {
+  list-style-type: none;
+  font-size: 12px;
+  padding: 0px;
+}
+
+li.valid {
+  color: #52ce67;
+}
+
+#connectedSVG {
+  width: 80vw;
+  max-height: 550px;
+}
+
+#main-footer {
+  /* position: fixed; */
+  height: 30px;
+  /* bottom: 0px;
+  left: 0px;
+  right: 0px; */
+  margin-top: 80px;
+  margin-bottom: 0px;
+}
+
+div#signUpPassConfirmation {
+  margin-bottom: 30px;
+}
